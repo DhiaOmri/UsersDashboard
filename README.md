@@ -49,5 +49,5 @@ npm start
 
 ## Together (concurrently)
 
->npm run dev
+>npm run start:dev
 
